@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👨‍💻 Software Frameworks Engineer
 
-<!--
-**djcopley/djcopley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 As a seasoned software frameworks engineer, I specialize in crafting offensive cyber frameworks that push the boundaries of innovation.
 
-Here are some ideas to get you started:
+🔧 A hacker at heart and a perpetual tinkerer, I am forever driven by curiosity. My passion lies not only in functionality but also in the elegance of design and aesthetic code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages:
+- Python (Expert)
+- Swift (Favorite)
+- C, Java, Go (Proficient)
+
+## 🌟 Key Skills:
+- Offensive Cyber Frameworks
+- Code Optimization
+- System Architecture
+- Software Design Lifecycle
+- Design Patterns
+
+## 🔍 Interests:
+- Ethical Hacking
+- Open Source Contributions
+- Design Aesthetics in Coding
+
+🌎 Join me on this journey of hacking, tinkering, and creating beautifully designed code that not only works but elevates the craft of software engineering.
+
+*Let's code, break, and create!*
