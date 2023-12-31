@@ -1,8 +1,8 @@
 ## 👨‍💻 Software Frameworks Engineer
 
-🚀 As a seasoned software frameworks engineer, I specialize in crafting offensive cyber frameworks that push the boundaries of innovation.
+🚀 Hey there! I'm a seasoned software frameworks engineer, specializing in crafting innovative offensive cyber frameworks.
 
-🔧 A hacker at heart and a perpetual tinkerer, I am forever driven by curiosity. My passion lies not only in functionality but also in the elegance of design and aesthetic code.
+🔧 With a hacker's heart and a perpetual tinkering spirit, I'm fueled by curiosity. My passion extends beyond functionality to appreciate the elegance of design and clean code.
 
 ## 💻 Languages:
 - Python (Expert)
@@ -21,6 +21,6 @@
 - Open Source Contributions
 - Design Aesthetics in Coding
 
-🌎 Join me on this journey of hacking, tinkering, and creating beautifully designed code that not only works but elevates the craft of software engineering.
+🌎 Join me on this journey of hacking, tinkering, and creating beautifully designed code that not only works but also elevates the art of software engineering.
 
 *Let's code, break, and create!*
