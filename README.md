@@ -1,26 +1,7 @@
-## 👨‍💻 Software Frameworks Engineer
+### Hi there 👋
 
-🚀 Hey there! I'm a seasoned software frameworks engineer, specializing in crafting innovative offensive cyber frameworks.
+I'm Daniel and I spend most of my days (Monday-Friday 🤪) working on software frameworks. I know Python and Java like the back of my hand, but recently Swift has been stealing my heart. I'm a bit of an Apple fan boy.
 
-🔧 With a hacker's heart and a perpetual tinkering spirit, I'm fueled by curiosity. My passion extends beyond functionality to appreciate the elegance of design and clean code.
+When I'm not busy at work, I try to solve problems in my life and my wife's life. You can find my active projects on [my website](https://daniel.copley.dev) and I am occasionally active on X at [@djrcopley](https://twitter.com/djrcopley)
 
-## 💻 Languages:
-- Python (Expert)
-- Swift (Favorite)
-- C, Java, Go (Proficient)
-
-## 🌟 Key Skills:
-- Offensive Cyber Frameworks
-- Code Optimization
-- System Architecture
-- Software Design Lifecycle
-- Design Patterns
-
-## 🔍 Interests:
-- Ethical Hacking
-- Open Source Contributions
-- Design Aesthetics in Coding
-
-🌎 Join me on this journey of hacking, tinkering, and creating beautifully designed code that not only works but also elevates the art of software engineering.
-
-*Let's code, break, and create!*
+If you want to get in touch, you can send me a message on X.
