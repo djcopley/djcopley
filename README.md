@@ -4,4 +4,4 @@ I'm Daniel and I spend my week days working on software frameworks. When I'm not
 
 Python has historically been my language of choice, but recently Swift has been stealing my heart.
 
-If you want to get in touch, you can send me a message on X.
+If you want to get in touch, you can send me a message on X, or email me at djcopley@proton.me.
